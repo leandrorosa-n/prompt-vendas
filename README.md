@@ -1,18 +1,18 @@
 # PROMPT de VENDAS
 
-# Tema escolhido
+## Tema escolhido
 Venda para loja de calçados local e por WhatsApp
 
-# Usuário principal da solução
+## Usuário principal da solução
 Vendedores das lojas e vendedores virtuais
 
-# Problema de vendas ou atendimento que a IA resolve
+## Problema de vendas ou atendimento que a IA resolve
 Ajuda a entender o perfil do cliente, dores, desejos e principais necessidade com uma conversa leve e objetiva com conexão
 
-# Abordagem usada
+## Abordagem usada
 Copiloto, entrevistas, experiência com lojas e pesquisas na internet
 
-# informações usadas como base de conhecimento
+## informações usadas como base de conhecimento
 GitHubs de modelos, vídeos e roteiros
 
 -----------------------------------------------------------------------------------------------
